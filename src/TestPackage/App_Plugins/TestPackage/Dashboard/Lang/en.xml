@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language alias="en" intName="English (UK)" localName="English (UK)" lcid="" culture="en-GB">
+	<area alias="TestPackage">
+		<key alias="dashboardHeader">TestPackage super dashboard</key>
+		<key alias="dashboardDesc">My super awesome dashboard</key>
+	</area>
+	<area alias="dashboardTabs"> 
+		<key alias="testpackage-dashboard">TestPackage</key>
+	</area>
+
+</language>
